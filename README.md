@@ -1,11 +1,11 @@
 
-# README File Generator
+# README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This file helps you generate README Files for your ptojects
+This program uses node.js to generate a README file that populates with user input from the command line
 
 # Table of Contents
 
@@ -29,7 +29,7 @@ This file helps you generate README Files for your ptojects
 # Usage
 
 
-  This repo can be cloned and used to write your own README Files
+  This repo can be used by anyone to generate a README for their projects, node and inquire module are required see install section
 
 
 
@@ -39,7 +39,7 @@ This file helps you generate README Files for your ptojects
 
 # Contributing
 
-  Anyone can make a pull request to add features to the program
+  Anyone can make a pull request to add features to the repo
 
 # Test
 
@@ -53,4 +53,4 @@ To run test, run the following command:
 # Questions
 
 
-  If you have any questions about the repo, open an issue or contact me directly at andresdhr99@gmail.com. You can find more of my work at Endres2.
+  If you have any questions about the repo, open an issue or contact me directly at andresdhr99@gmail.com. You can find more of my work at https://github.com/Endres2.

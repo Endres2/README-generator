@@ -101,7 +101,7 @@ To run test, run the following command:
 # Questions
 
 
-  If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at ${data.username}.
+  If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at https://github.com/${data.username}.
 `;
 }
 //Import for index.js
