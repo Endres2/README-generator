@@ -70,7 +70,8 @@ init = () => {
     inquirer.
         prompt(questions)
         .then((ans) =>{
-            console.log(ans)
+            //console.log(ans)
+            console.log("Creating README")
             writeToFile("/README.md",generateMarkdown(ans));
         })
         .catch((error) => {

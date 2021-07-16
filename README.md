@@ -1,11 +1,11 @@
 
-# README Generator
+# README File Generator
 
-# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Creates a README using node
+This file helps you generate README Files for your ptojects
 
 # Table of Contents
 
@@ -29,7 +29,7 @@ Creates a README using node
 # Usage
 
 
-  Get ready to see cool things
+  This repo can be cloned and used to write your own README Files
 
 
 
@@ -39,7 +39,7 @@ Creates a README using node
 
 # Contributing
 
-  Feel free to add more cool functionality
+  Anyone can make a pull request to add features to the program
 
 # Test
 
